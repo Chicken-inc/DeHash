@@ -1,0 +1,148 @@
+DeHash:
+
+This file contains basic "DeHash" and information about various Hash algorithms. Do not copy whit out asking or use badly.
+
+*LETTERS SORTED IN SWISS KEYBOARD ORDER (You can find the layout are the end of this document*
+
+*Tip: On MacOS you can press ⌘ + f to look for words or letters
+
+MD5:
+
+- 1 Character:
+
+Uppercase Letters:
+Q: f09564c9ca56850d4cd6b3319e541aee
+W: 61e9c06ea9a85a5088a499df6458d276
+E: 3a3ea00cfc35332cedf6e5e9a32e94da
+R: e1e1d3d40573127e9ee0480caf1283d6
+T: b9ece18c950afbfa6b0fdbfa4ff731d3
+Z: 21c2e59531c8710156d34a3c30ac81d5
+U: 4c614360da93c0a041b22e537de151eb
+I: dd7536794b63bf90eccfd37f9b147d7f
+O: f186217753c37b9b9f958d906208506e
+P: 44c29edb103a2872f519ad0c9a0fdaaa
+A: 7fc56270e7a70fa81a5935b72eacbe29
+S: 5dbc98dcc983a70728bd082d1a47546e
+D: f623e75af30e62bbd73d6df5b50bb7b5
+F: 800618943025315f869e4e1f09471012
+G: dfcf28d0734569a6a693bc8194de62bf
+H: c1d9f50f86825a1a2302ec2449c17196
+J: ff44570aca8241914870afbc310cdb85
+K: a5f3c6a11b03839d46af9fb43c97c188
+L: d20caec3b48a1eef164cb4ca81ba2587
+Y: 57cec4137b614c87cb4e24a3d003a3e0
+X: 02129bb861061d1a052c592e2dc6b383
+C: 0d61f8370cad1d412f80b84d143e1257
+V: 5206560a306a2e085a437fd258eb57ce
+B: 9d5ed678fe57bcca610140957afab571
+N: 8d9c307cb7f3c4a32822a51922d1ceaa
+M: 69691c7bdcc3ce6d5d8a1361f22d04ac
+
+Lowercase Letters:
+q: 7694f4a66316e53c8cdd9d9954bd611d
+w: f1290186a5d0b1ceab27f4e77c0c5d68
+e: e1671797c52e15f763380b45e841ec32
+r: 4b43b0aee35624cd95b910189b3dc231
+t: e358efa489f58062f10dd7316b65649e
+z: fbade9e36a3f36d3d676c1b808451dd7
+u: 7b774effe4a349c6dd82ad4f4f21d34c
+i: 865c0c0b4ab0e063e5caa3387c1a8741
+o: d95679752134a2d9eb61dbd7b91c4bcc
+p: 83878c91171338902e0fe0fb97a8c47a
+a: 0cc175b9c0f1b6a831c399e269772661
+s: 03c7c0ace395d80182db07ae2c30f034
+d: 8277e0910d750195b448797616e091ad
+f: 8fa14cdd754f91cc6554c9e71929cce7
+g: b2f5ff47436671b6e533d8dc3614845d
+h: 2510c39011c5be704182423e3a695e91
+j: 363b122c528f54df4a0446b6bab05515
+k: 8ce4b16b22b58894aa86c421e8759df3
+l: 2db95e8e1a9267b7a1188556b2013b33
+y: 415290769594460e2e485922904f345d
+x: 9dd4e461268c8034f5c8564e155c67a6
+c: 4a8a08f09d37b73795649038408b5f33
+v: 9e3669d19b675bd57058fd4664205d2a
+b: 92eb5ffee6ae2fec3ad71c777531578f
+n: 7b8b965ad4bca0e41ab51de7b31363a1
+m: 6f8f57715090da2632453988d9a1501b
+
+Symbols:
+(Space): 7215ee9c7d9dc229d2921a40e899ec5f
+1: c4ca4238a0b923820dcc509a6f75849b
+2: c81e728d9d4c2f636f067f89cc14862c
+3: eccbc87e4b5ce2fe28308fd9f2a7baf3
+4: a87ff679a2f3e71d9181a67b7542122c
+5: e4da3b7fbbce2345d7772b0674a318d5
+6: 1679091c5a880faf6fb5e6087eb1b2dc
+7: 8f14e45fceea167a5a36dedd4bea2543
+8: c9f0f895fb98ab9159f51fd0297e236d
+9: 45c48cce2e2d7fbdea1afc51c7c6ad26
+.: 5058f1af8388633f609cadb75a75dc9d
+:: 853ae90f0351324bd73ea615e6487517
+/: 6666cd76f96956469e7be39d750cc7d9
+(: 84c40473414caf2ed4a7b1283e48bbf4
+): 9371d7a2e3ae86a00aab4771e39d255d
+?: d1457b72c3fb323a2671125aef3eab5d
+!: 9033e0e305f247c0c3c80d0c7848c8b3
+€: bca53fde466a76b7bee3e18997e94a7a
+$: c3e97dd6e97fb5125688c97f36720cbe
+£: d99731d14c7750048538404febb0e357
++: 26b17225b626fb9238849fd60eabdf60
+-: 336d5ebc5436534e61d16e63ddfca327
+_: b14a7b8059d9c055954c92674ce60032
+
+---------
+*For only one character*
+---------
+
+About MD5:
+
+Length: 32
+Complexity: medium (5/10)
+Security: low (4/10)
+
+-
+
+About SHA-1:
+
+Length: 40
+Complexity: medium (5/10)
+Security: high (7/10)
+
+-
+
+About SHA-256:
+
+Length: 64
+Complexity: very secure (9/10)
+Security: secure (8/10)
+
+-
+
+About SHA-512: (Would recommend)
+
+Length: 128
+Complexity: unhashable (10/10)
+Security: unhashable (10/10)
+
+---------
+The scale:
+
+0/10 critical
+1/10 terrible
+2/10 awful
+3/10 very low
+4/10 low
+5/10 medium
+6/10 high
+7/10 very high
+8/10 secure
+9/10 very secure
+10/10 unhashable (over-reacting)
+
+---------
+SWISS KEYBOARD LAYOUT:
+
+https://chickeninc.files.wordpress.com/2017/12/keyboard-layout.jpg
+
+©Copyright Chicken.inc 2017
